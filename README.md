@@ -1,2 +1,2 @@
 # react_stock_alert_app
-Minimalist React PWA (Progressive Web App) for setting Stock alerts and getting alert  notifications
+Minimalist React and Material-UI PWA (Progressive Web App) for setting Stock alerts and getting alert  notifications
