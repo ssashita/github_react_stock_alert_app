@@ -1,7 +1,7 @@
 export default {
   FIELD_CHANGED: 0,
   USER_REGISTER_FORM_SUBMIT: 1,
-  BASE_SERVER_URL: "http://localhost:7776/",
+  BASE_SERVER_URL: "http://localhost:3002/",
   USER_REGISTER_REQUEST: "createuser",
   CREATE_SUBSCRIPTION_REQUEST: "createsubscription",
   CREATE_ALERT: "createalert",
@@ -11,8 +11,7 @@ export default {
   DEL_ALERT: "alert",
   SUBSCRIPTIONS: "subscriptions",
   STOCKPAL_INFO_COOKIE: "stockpal_cookie",
-  //moscaConnectionString: "tcp://52.77.57.127:41385"
-  moscaConnectionString: "ws://localhost:9003",
+  moscaConnectionString: "ws://localhost:3001",
   SET_TAB_CONTENT: "settab_content",
   SET_CURRENT_USER_INFO: "set_current_user_info",
   ALERTS_TAB_NAME: "ALERTS",
